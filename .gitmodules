@@ -1,0 +1,3 @@
+[submodule "C-FlappyBird"]
+	path = C-FlappyBird
+	url = https://github.com/KCNikhil/C-FlappyBird.git
